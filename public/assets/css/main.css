@@ -1,0 +1,19 @@
+.white-text{
+    color: #ffffff;
+}
+
+#heading-loading{
+    color: #ffffff;
+    font-size: 2em;
+    font-family: Courier New, Courier, monospace
+}
+
+#loading-message {
+    font-size: 2em;
+    font-style: italic;
+}
+
+#loading-bank-logo {
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px #766d6d;
+}
